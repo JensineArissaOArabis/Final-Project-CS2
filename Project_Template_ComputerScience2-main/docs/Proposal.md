@@ -49,4 +49,4 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 
 ## 📂 GitHub Repository Link  
 Paste your GitHub repository link here:  
-`https://github.com/username/project-proposal`  
+`[https://github.com/username/project-proposal](https://github.com/JensineArissaOArabis/Final-Project-CS2)`  
