@@ -1,23 +1,21 @@
 # 📌 Project Proposal (Draft)
 
 ## 📝 Project Title  
-*Enter your initial project title here.*  
+Survey Data Collection and Response Confirmation System
 
 ---
 
 ## 🔍 Problem Statement  
-What real-world problem does your project want to solve?  
-- Describe the issue or need you identified.  
-- Explain why this problem is relevant and worth solving.  
-- Relate the problem to the dataset you selected (e.g., hospital, ecommerce, students, etc.).  
+This project addresses the challenge of efficiently gathering and managing feedback from respondents in educational or survey settings. Often, collecting comprehensive data on user satisfaction, usability, and recommendations can be disorganized or incomplete, leading to inaccurate conclusions. By creating a system that captures detailed respondent information and feedback, and immediately confirms submission, this project aims to improve the accuracy, organization, and reliability of survey data collection, ultimately supporting better decision-making and improvements based on user insights.  
 
 ---
 
 ## 🎯 Project Objectives  
-Write at least **2–3 clear objectives** your project aims to achieve. Example:  
-- Objective 1: To analyze and summarize data from the chosen JSON dataset.  
-- Objective 2: To help users gain meaningful insights (e.g., averages, trends, patterns).  
-- Objective 3: To practice JSON handling and Python programming concepts.  
+To develop a system that accurately collects and stores respondents’ demographic information and feedback on satisfaction, usability, design, clarity, and recommendations.
+
+To ensure the survey process is user-friendly and guides respondents smoothly through all questions until completion.
+
+To implement an immediate confirmation message that notifies respondents their responses have been successfully recorded, enhancing user confidence and engagement.
 
 ---
 
