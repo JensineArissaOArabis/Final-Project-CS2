@@ -38,13 +38,9 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 ## ⌨️ Planned Inputs and Outputs  
 
 - **Inputs**  
-  - What kind of data will the user provide (if any)?  
-  - Example: student ID, date range, product name  
-
+  - Respondent's ID number, age, gender, grade level, section, questions about satisfaction, usability, design, clarity, recommendations, and overall conclusions, and comments about the subject.
 - **Outputs**  
-  - What kind of results will your program display?  
-  - Example: class averages, top products, weather summary  
-
+  - Display “Your response has been recorded” at the end of the survey after the respondent has answered all of the questions.
 ---
 
 ## 📂 GitHub Repository Link  
