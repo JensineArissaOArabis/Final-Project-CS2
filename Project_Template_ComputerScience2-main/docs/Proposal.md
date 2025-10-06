@@ -22,16 +22,12 @@ Write at least **2–3 clear objectives** your project aims to achieve. Example:
 ---
 
 ## ⚙️ Planned Features  
-Your program must have **at least 5 features (minimum)**.  
-We have provided **2 starter ideas** for each dataset — you must design **at least 3 additional features**.  
-
 - Feature 1: Collect & record feedbacks/data from the respondents. 
 - Feature 2: Mark whether a question is required or optional.
 - Feature 3: Set a maximum amount of characters or words allowed in the answer.
 - Feature 4: Says what kind of answer is expected (a word, number, date, etc.).
 - Feature 5: Shows example text inside the answer box to guide the user. 
 
-*(You may add more features if you like.)*  
 
 ---
 
@@ -45,4 +41,4 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 
 ## 📂 GitHub Repository Link  
 Paste your GitHub repository link here:  
-`[https://github.com/username/project-proposal](https://github.com/JensineArissaOArabis/Final-Project-CS2)`  
+`https://github.com/JensineArissaOArabis/Final-Project-CS2`  
