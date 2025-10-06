@@ -25,11 +25,11 @@ Write at least **2–3 clear objectives** your project aims to achieve. Example:
 Your program must have **at least 5 features (minimum)**.  
 We have provided **2 starter ideas** for each dataset — you must design **at least 3 additional features**.  
 
-- Feature 1: *(Starter idea)*  
-- Feature 2: *(Starter idea)*  
-- Feature 3: *(Your own idea)*  
-- Feature 4: *(Your own idea)*  
-- Feature 5: *(Your own idea)*  
+- Feature 1: Collect & record feedbacks/data from the respondents. 
+- Feature 2: Mark whether a question is required or optional.
+- Feature 3: Set a maximum amount of characters or words allowed in the answer.
+- Feature 4: Says what kind of answer is expected (a word, number, date, etc.).
+- Feature 5: Shows example text inside the answer box to guide the user. 
 
 *(You may add more features if you like.)*  
 
