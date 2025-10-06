@@ -46,3 +46,7 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
   - Example: class averages, top products, weather summary  
 
 ---
+
+## 📂 GitHub Repository Link  
+Paste your GitHub repository link here:  
+`https://github.com/username/project-proposal`  
