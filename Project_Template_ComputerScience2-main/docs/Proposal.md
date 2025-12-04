@@ -39,4 +39,62 @@ To implement an immediate confirmation message that notifies respondents their r
 
 ## 📂 GitHub Repository Link  
 Paste your GitHub repository link here:  
-`https://github.com/JensineArissaOArabis/Final-Project-CS2`  
+`https://github.com/JensineArissaOArabis/Final-Project-CS2` 
+
+LOGIC PLAN
+Pseudocode:
+BEGIN
+
+    DISPLAY "Welcome to the Survey Data Collection System"
+
+    // Collect demographic information
+    PROMPT "Enter your full name: "
+    READ name
+
+    PROMPT "Enter your age: "
+    READ age
+
+    PROMPT "Enter your email: "
+    READ email
+
+    PROMPT "Enter your occupation: "
+    READ occupation
+
+    // Collect survey feedback
+    DISPLAY "Rate the following from 1 (Poor) to 5 (Excellent):"
+
+    PROMPT "Overall satisfaction: "
+    READ satisfaction_rating
+
+    PROMPT "System usability: "
+    READ usability_rating
+
+    PROMPT "Question clarity: "
+    READ clarity_rating
+
+    PROMPT "Design and layout: "
+    READ design_rating
+
+    PROMPT "Would you recommend this system? (Yes/No): "
+    READ recommendation
+
+    // Store all data
+    CREATE survey_record
+    SET survey_record.name = name
+    SET survey_record.age = age
+    SET survey_record.email = email
+    SET survey_record.occupation = occupation
+    SET survey_record.satisfaction_rating = satisfaction_rating
+    SET survey_record.usability_rating = usability_rating
+    SET survey_record.clarity_rating = clarity_rating
+    SET survey_record.design_rating = design_rating
+    SET survey_record.recommendation = recommendation
+
+    SAVE survey_record TO dataset
+
+    // Confirmation message
+    DISPLAY "Thank you! Your responses have been recorded."
+
+END
+
+Flowchart:
