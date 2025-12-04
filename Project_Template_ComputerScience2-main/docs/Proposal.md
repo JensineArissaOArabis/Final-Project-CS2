@@ -114,4 +114,4 @@ END
 ---
 
 ## Flowchart:
-<img width="1440" height="900" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/b3107003-2d13-4033-aeea-e3077cbc1e9f" />
+<img width="456" height="610" alt="Screenshot 2025-12-04 232612" src="https://github.com/user-attachments/assets/0b2f4d3b-46d6-41f9-a08c-d04c1d9011cb" />
