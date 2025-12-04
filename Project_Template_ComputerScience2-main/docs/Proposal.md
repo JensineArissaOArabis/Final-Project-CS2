@@ -41,7 +41,9 @@ To implement an immediate confirmation message that notifies respondents their r
 Paste your GitHub repository link here:  
 `https://github.com/JensineArissaOArabis/Final-Project-CS2` 
 
-LOGIC PLAN
+---
+
+## LOGIC PLAN
 Pseudocode:
 BEGIN
 
@@ -97,4 +99,6 @@ BEGIN
 
 END
 
-Flowchart:
+---
+
+## Flowchart:
